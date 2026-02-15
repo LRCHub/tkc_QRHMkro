@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "filled",
+  "base_artist": "菅原 圭",
+  "createdAt": "2026-02-15T15:17:33.468310Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The World Is Filled... (feat. Too Short & Puff Daddy)",
+      "artist": "The Notorious B.I.G.",
+      "has_synced": true,
+      "path": "select/01_The_World_Is_Filled..._(feat._Too_Short_&_Puff_Daddy)_The_Notorious_B.I.G..lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The World Is Filled... (Feat. Too Short, Puff Daddy & Carl Thomas)",
+      "artist": "The Notorious B.I.G.",
+      "has_synced": true,
+      "path": "select/02_The_World_Is_Filled..._(Feat._Too_Short,_Puff_Daddy_&_Carl_Thomas)_The_Notorious_B.I.G..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Omen-Filled Season",
+      "artist": "Death In June",
+      "has_synced": true,
+      "path": "select/03_Omen-Filled_Season_Death_In_June.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tamed (Filled with Fear)",
+      "artist": "Hypocrisy",
+      "has_synced": false,
+      "path": "select/04_Tamed_(Filled_with_Fear)_Hypocrisy.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Filled With Hate",
+      "artist": "Biohazard",
+      "has_synced": true,
+      "path": "select/05_Filled_With_Hate_Biohazard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Her Mouth Is Filled With Honey",
+      "artist": "Swans",
+      "has_synced": true,
+      "path": "select/06_Her_Mouth_Is_Filled_With_Honey_Swans.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Filled With Fear",
+      "artist": "Iron Butterfly",
+      "has_synced": false,
+      "path": "select/07_Filled_With_Fear_Iron_Butterfly.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm Filled With Steak, And Cannot Dance",
+      "artist": "Sidney Gish",
+      "has_synced": true,
+      "path": "select/08_I'm_Filled_With_Steak,_And_Cannot_Dance_Sidney_Gish.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "There Is A Fountain Filled With Blood",
+      "artist": "Aretha Franklin",
+      "has_synced": false,
+      "path": "select/09_There_Is_A_Fountain_Filled_With_Blood_Aretha_Franklin.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Smoke Filled Room",
+      "artist": "Mako",
+      "has_synced": true,
+      "path": "select/10_Smoke_Filled_Room_Mako.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The World Is Filled... (feat. Too Short, Puff Daddy) [2005 Remaster]",
+      "artist": "The Notorious B.I.G.",
+      "has_synced": true,
+      "path": "select/11_The_World_Is_Filled..._(feat._Too_Short,_Puff_Daddy)_[2005_Remaster]_The_Notorious_B.I.G..lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Heart Filled Up",
+      "artist": "Paolo Nutini",
+      "has_synced": true,
+      "path": "select/12_Heart_Filled_Up_Paolo_Nutini.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Knew This Because as I Drove, The Hole That Was Me and My Life Was Getting Smaller and Smaller and Was Being Filled With New Hampshire, Or Maybe It Was the Idea of New Hampshire, But Who Cares, As Long as It Was Filling Up the Hole",
+      "artist": "Empire! Empire! (I Was a Lonely Estate)",
+      "has_synced": true,
+      "path": "select/13_I_Knew_This_Because_as_I_Drove,_The_Hole_That_Was_Me_and_My_Life_Was_Getting_Sma_Empire!_Empire!_(I_Was_a_Lonely_Estate).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "filled",
+      "artist": "菅原 圭",
+      "has_synced": false,
+      "path": "select/pl_01_filled_菅原_圭.txt"
+    }
+  ]
+}
